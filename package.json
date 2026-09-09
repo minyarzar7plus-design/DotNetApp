@@ -1,0 +1,9 @@
+{
+  "name": "dotnet-app-preview",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node preview-server.js",
+    "start": "node preview-server.js"
+  }
+}
